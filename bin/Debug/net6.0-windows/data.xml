@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job>
+    <PlanItem>
+      <Date>2023-05-10T19:00:13.1918707+07:00</Date>
+      <Job>Thử nghiệm thôi</Job>
+      <FromTime>
+        <X>4</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>5</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2023-05-10T00:00:00</Date>
+      <Job>zzazza</Job>
+      <FromTime>
+        <X>1</X>
+        <Y>1</Y>
+      </FromTime>
+      <ToTime>
+        <X>1</X>
+        <Y>1</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2023-05-11T00:00:00</Date>
+      <Job>fxfgnh</Job>
+      <FromTime>
+        <X>1</X>
+        <Y>1</Y>
+      </FromTime>
+      <ToTime>
+        <X>1</X>
+        <Y>1</Y>
+      </ToTime>
+      <Status>DONE</Status>
+    </PlanItem>
+  </Job>
+</PlanData>PlanData>
