@@ -17,11 +17,6 @@ E:\Calender\Calender\obj\Debug\net6.0-windows\refint\Calender.dll
 E:\Calender\Calender\obj\Debug\net6.0-windows\Calender.pdb
 E:\Calender\Calender\obj\Debug\net6.0-windows\Calender.genruntimeconfig.cache
 E:\Calender\Calender\obj\Debug\net6.0-windows\ref\Calender.dll
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Calender.exe
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Calender.deps.json
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Calender.runtimeconfig.json
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Calender.dll
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Calender.pdb
 C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.csproj.AssemblyReference.cache
 C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.AJob.resources
 C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.DailyPlan.resources
@@ -31,8 +26,13 @@ C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.Ge
 C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.AssemblyInfoInputs.cache
 C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.AssemblyInfo.cs
 C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.dll
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\refint\Calender.dll
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.pdb
 C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Calender.genruntimeconfig.cache
-C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\ref\Calender.dll
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Lập lịch.exe
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Lập lịch.deps.json
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Lập lịch.runtimeconfig.json
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Lập lịch.dll
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\bin\Debug\net6.0-windows\Lập lịch.pdb
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Lập lịch.dll
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\refint\Lập lịch.dll
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\Lập lịch.pdb
+C:\Users\ADMIN\.vscode\C#\Calender\Calender\obj\Debug\net6.0-windows\ref\Lập lịch.dll

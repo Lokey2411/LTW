@@ -2,7 +2,7 @@
 <PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Job>
     <PlanItem>
-      <Date>2023-05-10T19:00:13.1918707+07:00</Date>
+      <Date>2023-05-15T08:39:38.5836324+07:00</Date>
       <Job>Thử nghiệm thôi</Job>
       <FromTime>
         <X>4</X>
@@ -15,8 +15,8 @@
       <Status>COMING</Status>
     </PlanItem>
     <PlanItem>
-      <Date>2023-05-10T00:00:00</Date>
-      <Job>zzazza</Job>
+      <Date>2023-05-15T00:00:00</Date>
+      <Job>bartenders</Job>
       <FromTime>
         <X>1</X>
         <Y>1</Y>
@@ -28,8 +28,8 @@
       <Status>COMING</Status>
     </PlanItem>
     <PlanItem>
-      <Date>2023-05-11T00:00:00</Date>
-      <Job>fxfgnh</Job>
+      <Date>2023-05-15T00:00:00</Date>
+      <Job>roblox</Job>
       <FromTime>
         <X>1</X>
         <Y>1</Y>
@@ -38,7 +38,31 @@
         <X>1</X>
         <Y>1</Y>
       </ToTime>
-      <Status>DONE</Status>
+      <Status>COMING</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2023-05-15T00:00:00</Date>
+      <Job>abc</Job>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>1</X>
+        <Y>1</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItem>
+    <PlanItem>
+      <Date>2023-05-15T00:00:00</Date>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
     </PlanItem>
   </Job>
-</PlanData>PlanData>
+</PlanData>

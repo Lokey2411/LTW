@@ -106,7 +106,6 @@
             // ckbNotify
             // 
             ckbNotify.AutoSize = true;
-            ckbNotify.Enabled = false;
             ckbNotify.Location = new Point(3, 5);
             ckbNotify.Margin = new Padding(4, 3, 4, 3);
             ckbNotify.Name = "ckbNotify";
@@ -266,15 +265,16 @@
             // tmNotify
             // 
             tmNotify.Enabled = true;
-            tmNotify.Interval = 5000;
+            tmNotify.Interval = 60000;
             tmNotify.Tick += tmNotify_Tick;
             // 
             // Notify
             // 
             Notify.BalloonTipIcon = ToolTipIcon.Info;
-            Notify.BalloonTipText = "bạn có thông báo";
-            Notify.BalloonTipTitle = "Thông báo";
+            Notify.BalloonTipText = "abc";
+            Notify.BalloonTipTitle = "abc";
             Notify.Icon = (Icon)resources.GetObject("Notify.Icon");
+            Notify.Tag = "abv";
             Notify.Text = "Lịch công tác";
             Notify.Visible = true;
             // 

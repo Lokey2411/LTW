@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Calender/1.0.0": {
+      "Lập lịch/1.0.0": {
         "runtime": {
-          "Calender.dll": {}
+          "Lập lịch.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Calender/1.0.0": {
+    "Lập lịch/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
